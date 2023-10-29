@@ -33,3 +33,14 @@ nav ul li a {
 .input-field h4 {
     padding-top: 40px;
 }
+
+.button {
+    
+    border: 1px solid black;
+}
+
+.row .more {
+    text-align: center;
+    padding-top: 100px;
+    padding-right: 40px;
+}
