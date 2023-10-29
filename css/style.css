@@ -5,3 +5,17 @@
 nav ul li a {
     padding: 0 30px;
 }
+
+.main-1 p {
+    width: 95%;
+}
+
+.main-1 h6 {
+    
+    margin-top: 40px;
+    font-size: 14px;
+}
+
+.row .main-1 {
+    padding-left: 50px;
+}
