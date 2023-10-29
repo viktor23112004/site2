@@ -10,7 +10,7 @@ nav ul li a {
     width: 95%;
 }
 
-.main-1 h6 {
+.main-1 h5 {
     margin-top: 40px;
     font-size: 14px;
 }
@@ -23,4 +23,13 @@ nav ul li a {
     padding-top: 100px;
     padding-left: 40px;
     padding-right: 70px;
+}
+
+.input-field {
+    padding-top: 40px;
+    margin: 50px 0 50px 0;
+}
+
+.input-field h4 {
+    padding-top: 40px;
 }
