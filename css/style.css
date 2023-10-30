@@ -86,3 +86,14 @@ nav ul li a {
      font-weight: 500;
      font-size: 20px;
  }
+
+ @media screen and (max-width: 600px) {
+    .foot-left {
+        display: flex;
+        justify-content: center;
+    }
+    .foot-right_1 {
+        display: flex;
+        justify-content: center;
+    }
+  }
